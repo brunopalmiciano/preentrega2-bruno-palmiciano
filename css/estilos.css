@@ -304,6 +304,7 @@ h2{
     justify-content: space-around;
     background-color: aqua;
     padding: 20px;
+    align-items: center;
     
 }
 .card{
@@ -460,18 +461,7 @@ h2{
 .card_boton4:hover{
     background-color: rgb(3,85,85);
 }
-/* card4 */
 
-/* .card--xl{
-    width: 100%;
-}
-
-.card_img--xl{
-    background-size: cover;
-    background-position: center;
-    height: 250px;
-}
- */
 /* ofertas */
 
 /* footer */
